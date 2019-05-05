@@ -1,0 +1,21 @@
+Prep VM
+   Download VScode and install PowerShell extenstions
+   Adjust mouse Windows Black (system scheme)
+   pin \\appsserver3\scriptrepo to quick access
+
+
+Download Git https://git-scm.com/downloads
+Install taking all default settings
+Open www.github.com and sign in 9n82a^nhp%Ne
+Get url from repository for cloning
+Open command line from folder that will contain the clone
+git clone url
+
+Create file
+Save changes
+Stage changes
+Commit changes
+Push changes
+
+
+
