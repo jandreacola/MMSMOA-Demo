@@ -4,9 +4,11 @@
 #Presents a list of "example" code
 
 #Where Object
-
+Where-Object {_.Property -eq 'Stopped'}
 #If snippet
-
+elseif (condition) {
+    
+}
 
 #Custom snippet  SetupLog
     
