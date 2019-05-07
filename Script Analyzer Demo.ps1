@@ -1,4 +1,2 @@
-# "Bad" code 
-Get-ChildItem -in *.sln -r | Select-Object -first 1 | ForEach-Object{ Invoke-Item $_.FullName }
- 
-
+# "Bad" code  
+ls -in *.sln -r |select -First 1 | % {ii $_.FullName} 
